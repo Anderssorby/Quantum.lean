@@ -1,0 +1,45 @@
+{"version": 4,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/yatima-inc/YatimaStdLib.lean",
+    "subDir?": null,
+    "rev": "649368d593f292227ab39b9fd08f6a448770dca8",
+    "name": "YatimaStdLib",
+    "inputRev?": "649368d593f292227ab39b9fd08f6a448770dca8"}},
+  {"git":
+   {"url": "https://github.com/yatima-inc/lspec/",
+    "subDir?": null,
+    "rev": "88f7d23e56a061d32c7173cea5befa4b2c248b41",
+    "name": "LSpec",
+    "inputRev?": "88f7d23e56a061d32c7173cea5befa4b2c248b41"}},
+  {"git":
+   {"url": "https://github.com/yatima-inc/Cli.lean",
+    "subDir?": null,
+    "rev": "ef6f9bcd1738638fca8d319dbee653540d56614e",
+    "name": "Cli",
+    "inputRev?": "main"}},
+  {"git":
+   {"url": "https://github.com/gebner/quote4",
+    "subDir?": null,
+    "rev": "7ac99aa3fac487bec1d5860e751b99c7418298cf",
+    "name": "Qq",
+    "inputRev?": "master"}},
+  {"git":
+   {"url": "https://github.com/JLimperg/aesop",
+    "subDir?": null,
+    "rev": "7fe9ecd9339b0e1796e89d243b776849c305c690",
+    "name": "aesop",
+    "inputRev?": "master"}},
+  {"git":
+   {"url": "https://github.com/leanprover/std4",
+    "subDir?": null,
+    "rev": "24897887905b3a1254b244369f5dd2cf6174b0ee",
+    "name": "std",
+    "inputRev?": "main"}},
+  {"git":
+   {"url": "https://github.com/leanprover-community/mathlib4.git",
+    "subDir?": null,
+    "rev": "5303e82e43e3b7551a4b39dc09fc3f7dc09fd9af",
+    "name": "Mathlib",
+    "inputRev?": "master"}}]}
